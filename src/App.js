@@ -162,7 +162,6 @@ function App() {
         <Badge style={{width: '200px'}} bg="secondary">Made by -</Badge>
         <Badge style={{width: '200px'}} className='mt-1'>Kunjan Gevariya - 1903116</Badge>
         <Badge style={{width: '200px'}} className='mt-1'>Meet Patel - 1903129</Badge>
-        <Badge style={{width: '200px'}} className='mt-1'>Nikhil Kumar - 1903210</Badge>
       </div>
     </div>
   );
